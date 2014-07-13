@@ -30,3 +30,7 @@ Hello,world!这是我的第一篇Blog Post。
 
 >应该永远感激完美了大千世界的人。我不是极客，但我在努力让自己的世界趋向完美，躁起来吧！
 
+
+### The other?
+
+[Track Me](https://github.com/imvman/imvman.github.io/issues/1)
