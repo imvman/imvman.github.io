@@ -1,0 +1,33 @@
+title:            Thinking Footprints
+description:      Personal website of VMan
+url:              # Site url.
+baseurl:          # Base url. ( if use subdirectory-like URL )
+signoff:          VMan
+# Your name.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+google_analytics_id: # set tracking, UA-XXXX-Y.
+
+links:
+  
+  - name:         Blog
+    url:          /
+    #external:     true
+  #- name:         Archive
+  #  url:          /
+  - name:         About
+    url:          /about
+  - name:         Feed
+    url:          /feed.xml
+  #- name:         Gmail
+  #  url:          mailto:mi.vmanamv.im@gmail.com
+  # external:     true
+  #- name:         GitHub
+  #  url:          https://github.com/imvman
+  #  external:     true
+
+pygments:         true
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:     [autolink, tables]
+encoding: utf-8
