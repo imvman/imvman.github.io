@@ -3,15 +3,9 @@ layout: post
 title: 假如生活欺骗了你
 ---
 
-If by life you were deceived,
-Don't be dismal,don't be wild!
-In the day of grief,be mild:
-Merry days will come,believe.
-Heart is living in tomorrow;
-Present is dejected here:
-In a moment,passes sorrow;
-That which passes will be dear.
+### 假如生活欺骗了你
 
+---
 假如生活欺骗了你
 不要悲伤，不要心急！
 忧郁的日子里需要镇静：
@@ -20,3 +14,13 @@ That which passes will be dear.
 现在却常是忧郁：
 一切都是瞬息，一切都将会过去；
 而那过去了的，就会成为亲切的怀恋。
+
+---
+If by life you were deceived,
+Don't be dismal,don't be wild!
+In the day of grief,be mild:
+Merry days will come,believe.
+Heart is living in tomorrow;
+Present is dejected here:
+In a moment,passes sorrow;
+That which passes will be dear.
